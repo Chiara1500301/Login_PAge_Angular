@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "520d",
+      "fullName": "qwerty",
+      "email": "qwerty@poiuy.com",
+      "password": "1234"
+    },
+    {
+      "id": "b642",
+      "fullName": "Chiara",
+      "email": "chiaraandria150301@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
